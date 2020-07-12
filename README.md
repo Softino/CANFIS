@@ -5,6 +5,6 @@ for those who don't know what the CANFIS is: it combines the power of fuzzy logi
 
 How to use:
 1-  change the number of input-output in the main code (stage_one)
-1-1 if you want to change the input, follow the guide film.
-1-2 if you want to change the output, you need to change the data_call code just like the input changes in guide film.
-2-  change the data set according to number of input-output. you can do this in data_call.
+1-1 if you want to change the input, follow up the guide film.
+1-2 if you want to change the output, you need to change the data_call code just like the input changes in the guide film.
+2-  change the data set according to the number of input-output. you can do this in the data_call.
